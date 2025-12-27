@@ -1,0 +1,7 @@
+Python
+Numpy
+Bernese Mountaindog
+Matplotlib
+Python environment
+Some nerdy hardware benchmarks
+A loving Relationship
