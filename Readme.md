@@ -4,7 +4,7 @@ A high-fidelity 3D simulation of a **Kerr (Rotating) Black Hole**, demonstrating
 
 This project utilizes Python and `matplotlib` to mathematically reconstruct the spacetime topology of a black hole spinning near its extremal limit, providing an interactive visualization of one of the most fascinating phenomena in General Relativity.
 
-![Kerr Black Hole Simulation](screenshot.png)
+![Kerr Black Hole Simulation](./kerr_blackhole_simulation.png)
 *Interactive 3D visualization of a rotating black hole with Penrose trajectories*
 
 ---
