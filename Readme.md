@@ -140,30 +140,7 @@ a = 0.99     # Spin parameter (0 = Schwarzschild, 1 = Extremal Kerr)
 - **Kerr Metric** on Wikipedia: [https://en.wikipedia.org/wiki/Kerr_metric](https://en.wikipedia.org/wiki/Kerr_metric)
 - **Penrose Process** on Wikipedia: [https://en.wikipedia.org/wiki/Penrose_process](https://en.wikipedia.org/wiki/Penrose_process)
 
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-- Report bugs
-- Suggest new features
-- Submit pull requests
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 👤 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-
----
+--
 
 ## 🙏 Acknowledgments
 
